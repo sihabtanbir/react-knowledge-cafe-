@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "title": "Senior Developer",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date": "2024-07-15",
+        "image": "https://example.com/images/johndoe.jpg",
+        "author": "Alice Johnson",
+        "cover_img": "https://miro.medium.com/v2/resize:fit:1400/1*fHrAZJ1_L0Ff9dvVexL5_A.png",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "title": "Project Manager",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "date": "2024-07-16",
+        "image": "https://example.com/images/janesmith.jpg",
+        "author": "Bob Martin",
+        "cover_img": "https://api.reliasoftware.com/uploads/web_development_is_important_176fa0618e.jpg",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSTblEVkkdJh15jlAbC3FpvuzCKb1o-pQQA&s"
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "title": "UI/UX Designer",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "date": "2024-07-17",
+        "image": "https://example.com/images/michaelbrown.jpg",
+        "author": "Catherine Lee",
+        "cover_img": "https://framerusercontent.com/images/g3JeyNK2QoJaa2fF93h82aBgaU.png",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "title": "Data Scientist",
+        "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "date": "2024-07-18",
+        "image": "https://example.com/images/emilydavis.jpg",
+        "author": "Daniel Thomas",
+        "cover_img": "https://cdn.dribbble.com/userupload/12894295/file/original-a76def72cdea25d560956e824f479901.png?resize=400x0",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSTblEVkkdJh15jlAbC3FpvuzCKb1o-pQQA&s"
+    },
+    {
+        "id": 5,
+        "name": "William Johnson",
+        "title": "Marketing Specialist",
+        "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.",
+        "date": "2024-07-19",
+        "image": "https://example.com/images/williamjohnson.jpg",
+        "author": "Emma Wilson",
+        "cover_img": "https://cdn.corporatefinanceinstitute.com/assets/marketing.jpeg",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuphMb4mq-EcVWhMVT8FCkv5dqZGgvn_QiA&s"
+    }
+]
